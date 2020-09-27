@@ -7,7 +7,7 @@ it will create 4 csv files on the basis of innings
 ![cmd1](https://user-images.githubusercontent.com/35364271/94368477-e3994580-0101-11eb-8863-6b1e68776d95.PNG)
 # For matchid go to https://www.cricbuzz.com/ and select any match you want like :-
 # https://www.cricbuzz.com/live-cricket-scores/30365/kkr-vs-srh-8th-match-indian-premier-league-2020
-![enter match id](https://user-images.githubusercontent.com/35364271/94368481-e5fb9f80-0101-11eb-90f3-e5b6d720cdeb.PNG)
+![enter match id](https://user-images.githubusercontent.com/35364271/94369504-b3ed3c00-0107-11eb-8a70-dab9627cd912.PNG)
 # Now enter that id and see the magic
 ![url](https://user-images.githubusercontent.com/35364271/94368487-e7c56300-0101-11eb-8d6f-2f77c9c7f4ee.PNG)
 ![cmd2](https://user-images.githubusercontent.com/35364271/94368479-e4ca7280-0101-11eb-84a8-b1b4ad7129a3.PNG)
