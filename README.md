@@ -14,8 +14,12 @@ it will create 4 csv files on the basis of innings
 ![scores](https://user-images.githubusercontent.com/35364271/94368486-e72ccc80-0101-11eb-89ef-1885453cd809.PNG)
 # Csv files has been generated
 ![files](https://user-images.githubusercontent.com/35364271/94368483-e6943600-0101-11eb-9c19-7d6c92ebc9c1.PNG)
-# Open csv files and Start doing analysis by joining multiple tables into bi-tools like tableau/powerbi/qliksense/etc
+# Scores in csv files
 ![csvfiles](https://user-images.githubusercontent.com/35364271/94368480-e5630900-0101-11eb-8027-c11eef26f0ad.PNG)
 
+# Open csv files and Start doing analysis by joining multiple tables into bi-tools like tableau/powerbi/qliksense/etc
+# Example of dashboard:- https://public.tableau.com/profile/rishabh2576#!/vizhome/IPL1MivsCsk/Dashboard1?publish=yes
+![dashboard](https://user-images.githubusercontent.com/35364271/94368841-104e5c80-0104-11eb-9bd2-5d06c070a8bf.PNG)
 
-# If you like my work then please give me stars :)
+# If you like my First Project  then please give me star :)
+
