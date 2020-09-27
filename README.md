@@ -1,6 +1,6 @@
 # Cricbuzz-match-scores-into-csv-format
 it will create 4 csv files on the basis of innings
-
+# before using this please install selenium by using this command pip install selenium
 # Script Files
 ![fileslist](https://user-images.githubusercontent.com/35364271/94368485-e6943600-0101-11eb-9f9c-ee744cfebf5c.PNG)
 # Cmd Command:- python cricbuzz.py
